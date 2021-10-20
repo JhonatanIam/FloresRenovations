@@ -1,0 +1,65 @@
+<section id="ts-features" class="ts-features">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+          <div class="row">
+              <div class="col-md-6">
+                <div class="ts-service-box">
+                    <span class="ts-service-icon">
+                      <i class="fas fa-trophy"></i>
+                    </span>
+                    <div class="ts-service-box-content">
+                      <h3 class="service-box-title">We've Repution for Excellence</h3>
+                    </div>
+                </div><!-- Service 1 end -->
+              </div><!-- col end -->
+
+              <div class="col-md-6">
+                <div class="ts-service-box">
+                    <span class="ts-service-icon">
+                      <i class="fas fa-sliders-h"></i>
+                    </span>
+                    <div class="ts-service-box-content">
+                      <h3 class="service-box-title">We Build Partnerships</h3>
+                    </div>
+                </div><!-- Service 2 end -->
+              </div><!-- col end -->
+          </div><!-- Content row 1 end -->
+
+          <div class="row">
+              <div class="col-md-6">
+                <div class="ts-service-box">
+                    <span class="ts-service-icon">
+                      <i class="fas fa-thumbs-up"></i>
+                    </span>
+                    <div class="ts-service-box-content">
+                      <h3 class="service-box-title">Guided by Commitment</h3>
+                    </div>
+                </div><!-- Service 1 end -->
+              </div><!-- col end -->
+
+              <div class="col-md-6">
+                <div class="ts-service-box">
+                    <span class="ts-service-icon">
+                      <i class="fas fa-users"></i>
+                    </span>
+                    <div class="ts-service-box-content">
+                      <h3 class="service-box-title">A Team of Professionals</h3>
+                    </div>
+                </div><!-- Service 2 end -->
+              </div><!-- col end -->
+          </div><!-- Content row 1 end -->
+        </div><!-- Col end -->
+
+        
+    </div><!-- Row end -->
+  </div><!-- Container end -->
+</section><!-- Feature are end -->
+
+
+
+
+
+
+
+
