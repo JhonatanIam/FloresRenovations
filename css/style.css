@@ -533,7 +533,7 @@ a[href^=tel] {
 .btn-primary:hover,
 .btn-dark:hover,
 .btn-white.btn-primary:hover {
-  background: #111;
+  background: #000;
   color: #fff;
 }
 
@@ -1241,7 +1241,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 /*-- Main slide --*/
 .banner-carousel .banner-carousel-item {
   height: 700px;
-  color: #fff;
+  color: #000;
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1278,7 +1278,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   font-size: 30px;
   line-height: 36px;
   font-weight: 300;
-  color: #fff;
+  color:fff;
   margin: 20px 0 10px;
 }
 
@@ -1299,7 +1299,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
   font-size: 60px;
   line-height: 58px;
   margin: 20px 0;
-  color: #fff;
+  color: #000;
   font-weight: 900;
   text-transform: uppercase;
   letter-spacing: -1px;
@@ -1362,7 +1362,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .slider.border {
-  background: none;
+  background: #ffb600;
   border: 2px solid #ffb600 !important;
 }
 
@@ -1506,7 +1506,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .box-slide-description {
-  color: #fff;
+  color: #000;
 }
 
 @media (max-width: 767px) {
@@ -1964,7 +1964,7 @@ ul.navbar-nav > li.header-get-a-quote:hover > a:after {
 }
 
 .img-fluid{
-  filter: blur(3px);
+  width: auto;
 }
 
 .shuffle-item .project-img-container img {
